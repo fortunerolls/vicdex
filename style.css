@@ -382,3 +382,7 @@ body {
 /* Link mở explorer cạnh địa chỉ pool */
 .extlink{ margin-left: 6px; font-weight: 600; text-decoration: none; }
 .extlink:hover{ text-decoration: underline; }
+
+@media (max-width: 900px){
+  #navToggle:checked ~ .top-nav{ display: flex; }
+}
