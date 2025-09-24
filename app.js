@@ -775,14 +775,15 @@
   }
 
   /* --------------------------- Init --------------------------- */
-  (async()=>{
-    try{
-      await refreshRegistry();
-      renderAllPickers();
-      attachLiquiditySync();
-      await renderPoolsList();
-      syncView();
-    }catch(e){ console.warn(e); }
-  })();
+ (async()=>{
+  try{
+    mobileNavFallback();                 // <-- thêm dòng này
+    await refreshRegistry();
+    renderAllPickers();
+    attachLiquiditySync();
+    await renderPoolsList();
+    syncView();
+  }catch(e){ console.warn(e); }
+})();
 
 })();
