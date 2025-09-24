@@ -29,7 +29,7 @@
 - ⚖️ Dice → https://ipfs.io/ipfs/bafybeihyf32ugo5ziwd62a6rmqn6iruthhy2kki3az42wyfthebyi7kfqe  
 - 🎟 Lotto → https://ipfs.io/ipfs/bafybeic54cju4i2ungveuqjbqljp333ao674kifj6dzbcqmpla33gbnq5i   
 - 💬 Social → https://ipfs.io/ipfs/bafybeidim4tnmi6afnxlg5nraw2cymhslviywealpvu5dogxs44wktllym  
-- 🔁 VicDex (FROLL/VIC)→ https://ipfs.io/ipfs/bafybeigelx3xvwx46rkjzyiu3lvl6ynobdq3zkgga7estff722klzvt4te
+- 🔁 VicDex (FROLL/VIC)→ https://ipfs.io/ipfs/bafybeiclxwlnn522kdxy5n6kwjuigvkyx2s2atihfvsasmq6pgv6j3wx6a
 ---
 
 ## 🪙 Token
