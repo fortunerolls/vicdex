@@ -172,7 +172,6 @@
       window.ethereum?.on?.("chainChanged", ()=> location.reload());
 
       attachHandlers();
-      mobileNavFallback();                 // hamburger cho mobile
       await refreshRegistry();
       renderAllPickers();
       attachLiquiditySync();
